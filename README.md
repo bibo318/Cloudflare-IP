@@ -41,5 +41,5 @@ pip3 install -r requirements.txt
 # Sử dụng lệnh sau nếu gặp sự cố khi cài đặt cryptography từ require.txt
 pkg install python-cryptography
 
-python Cloudflare-IP.py example.com
+python hoặc python3 Cloudflare-IP.py example.com
  
