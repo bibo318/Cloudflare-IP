@@ -30,7 +30,7 @@ Cloudflare-IP là một công cụ mạnh mẽ giúp bạn đánh giá bảo m�
 
 ## Cách Sử Dụng:
 
-Chạy CloudScan với một đối số dòng lệnh duy nhất: miền mục tiêu bạn muốn phân tích.
+Chạy Cloudflare-IP với một đối số dòng lệnh duy nhất:
 
 ```bash
 git clone https://github.com/bibo318/Cloudflare-IP.git
